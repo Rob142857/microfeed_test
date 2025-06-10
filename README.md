@@ -55,7 +55,7 @@ Since the 1990s, a significant portion of the web has been powered by feeds.
 People (and bots) publish items to a feed, and others can subscribe to that feed to receive new content.
 
 microfeed makes it far easy for individuals to self-host their own feed on Cloudflare, including but not limited to
-* a podcast feed of audios
+* a podcast feed of audios super cool
 * a blog feed of posts
 * an Instagram-like feed of images (e.g., [llamacorn.listennotes.com](https://llamacorn.listennotes.com/), [brand-assets.listennotes.com](https://brand-assets.listennotes.com/))
 * a YouTube-like feed of videos
